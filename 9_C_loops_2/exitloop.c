@@ -6,8 +6,7 @@ int main(){
 	do{
 		printf("%d \n",i*2);
 		
-		
-	 i++;	
+	     i++;	
 	}while(i<=10);
 	
 	
